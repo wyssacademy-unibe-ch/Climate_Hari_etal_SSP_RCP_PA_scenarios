@@ -1,0 +1,3 @@
+*.nc
+*.xz
+__pycache__/
