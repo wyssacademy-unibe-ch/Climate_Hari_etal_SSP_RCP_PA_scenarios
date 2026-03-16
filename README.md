@@ -17,7 +17,7 @@ Effectiveness Modeling: Comparisons are made between "full-effectiveness" and a 
    processing/   Contains distinct pipelines for Global (15,000+ species) and Endemic species analysis. Scripts used to apply the LUF approach to SDM outputs (Hof et al., 2018) and calculate the summed probability of occurrence (species richness) per taxonomic group, GCM, SDM and SSP-RCP. Ensemble files where used to calculate the total richness across the different model combinations.
     .bash/: Contains shell scripts to automate runs across all GCMs (GFDL-ESM2M, IPSL-CM5A-LR, HadGEM2-ES, MIROC5), SDMs (GBM and GAM), taxonomic group (Mammals, Bird and Amphibians) and SSP-RCP scenarios.
 
-  Figures/   Jupyter Notebooks for generating manuscript figures.
+      Figures/   Jupyter Notebooks for generating manuscript figures.
 
 3. Technical SpecificationsLanguage:
    Python 3.x
