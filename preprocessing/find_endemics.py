@@ -179,9 +179,6 @@ def scan_modeled_species(taxon_label: str, folder: str) -> pd.DataFrame:
 # --------------------------
 # Match
 # --------------------------
-# --------------------------
-# Match (Corrected Section)
-# --------------------------
 
 
 def match_modeled_to_endemics(df_mod, df_end, df_synK):
