@@ -41,11 +41,12 @@ PA_TYPES=(
     "pa30_bcw"
 )
 
-RETENTION="funding_constrained"
+# Management scenarios: "complete" "funding_constrained"
+RETENTION="complete"
 FUTURE_YEAR="2080"
 
 # Maximum number of Python processes launched simultaneously.
-MAX_PARALLEL_JOBS=12
+MAX_PARALLEL_JOBS=14
 
 PYTHON_SCRIPT="/capacity/occr_davin/mguzman/chari_P2_review/scripts_git/processing/Endemics/2_luf_sumprob_funding.py"
 OUTPUT_ROOT="/capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised"

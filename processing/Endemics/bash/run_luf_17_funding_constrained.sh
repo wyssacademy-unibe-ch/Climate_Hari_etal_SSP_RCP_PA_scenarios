@@ -37,8 +37,9 @@ SCENARIOS=(
 )
 
 # This launcher runs only the existing 17%-PA configuration.
+# Management scenarios: "complete" "funding_constrained"
 PA_TYPE="pa17"
-RETENTION="funding_constrained"
+RETENTION="complete"
 FUTURE_YEAR="2080"
 
 # Maximum number of Python processes running simultaneously.
