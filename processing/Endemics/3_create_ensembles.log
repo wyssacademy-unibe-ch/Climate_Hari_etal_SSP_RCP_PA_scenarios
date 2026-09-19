@@ -1,0 +1,130 @@
+nohup: ignoring input
+Input root: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised
+Output root: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles
+Overwrite existing outputs: False
+
+====================================================
+HISTORICAL ENSEMBLES
+====================================================
+Building historical ensemble: Amphibians
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Historical/Amphibians_historical_2015_ensemble.nc
+Building historical ensemble: Bird
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Historical/Bird_historical_2015_ensemble.nc
+Building historical ensemble: Mammals
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Historical/Mammals_historical_2015_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Historical/total_richness_historical_2015_ensemble.nc
+
+====================================================
+CLIMATE-ONLY ENSEMBLES
+====================================================
+Climate-only scenario: rcp26
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/Amphibians_climate_only_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/Bird_climate_only_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/Mammals_climate_only_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/total_richness_climate_only_rcp26_2080_ensemble.nc
+Climate-only scenario: rcp45
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/Amphibians_climate_only_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/Bird_climate_only_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/Mammals_climate_only_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/total_richness_climate_only_rcp45_2080_ensemble.nc
+Climate-only scenario: rcp60
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/Amphibians_climate_only_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/Bird_climate_only_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/Mammals_climate_only_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/Climate_Only/total_richness_climate_only_rcp60_2080_ensemble.nc
+
+====================================================
+PA-SCENARIO ENSEMBLES
+====================================================
+pa17 | complete | rcp26
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/Amphibians_pa17_complete_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/Bird_pa17_complete_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/Mammals_pa17_complete_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/total_richness_pa17_complete_rcp26_2080_ensemble.nc
+pa17 | complete | rcp45
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/Amphibians_pa17_complete_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/Bird_pa17_complete_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/Mammals_pa17_complete_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/total_richness_pa17_complete_rcp45_2080_ensemble.nc
+pa17 | complete | rcp60
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/Amphibians_pa17_complete_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/Bird_pa17_complete_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/Mammals_pa17_complete_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/complete/total_richness_pa17_complete_rcp60_2080_ensemble.nc
+pa17 | funding_constrained | rcp26
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/Amphibians_pa17_funding_constrained_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/Bird_pa17_funding_constrained_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/Mammals_pa17_funding_constrained_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/total_richness_pa17_funding_constrained_rcp26_2080_ensemble.nc
+pa17 | funding_constrained | rcp45
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/Amphibians_pa17_funding_constrained_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/Bird_pa17_funding_constrained_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/Mammals_pa17_funding_constrained_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/total_richness_pa17_funding_constrained_rcp45_2080_ensemble.nc
+pa17 | funding_constrained | rcp60
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/Amphibians_pa17_funding_constrained_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/Bird_pa17_funding_constrained_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/Mammals_pa17_funding_constrained_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA17/funding_constrained/total_richness_pa17_funding_constrained_rcp60_2080_ensemble.nc
+pa30_bio | complete | rcp26
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/Amphibians_pa30_bio_complete_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/Bird_pa30_bio_complete_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/Mammals_pa30_bio_complete_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/total_richness_pa30_bio_complete_rcp26_2080_ensemble.nc
+pa30_bio | complete | rcp45
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/Amphibians_pa30_bio_complete_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/Bird_pa30_bio_complete_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/Mammals_pa30_bio_complete_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/total_richness_pa30_bio_complete_rcp45_2080_ensemble.nc
+pa30_bio | complete | rcp60
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/Amphibians_pa30_bio_complete_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/Bird_pa30_bio_complete_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/Mammals_pa30_bio_complete_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/complete/total_richness_pa30_bio_complete_rcp60_2080_ensemble.nc
+pa30_bio | funding_constrained | rcp26
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/Amphibians_pa30_bio_funding_constrained_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/Bird_pa30_bio_funding_constrained_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/Mammals_pa30_bio_funding_constrained_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/total_richness_pa30_bio_funding_constrained_rcp26_2080_ensemble.nc
+pa30_bio | funding_constrained | rcp45
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/Amphibians_pa30_bio_funding_constrained_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/Bird_pa30_bio_funding_constrained_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/Mammals_pa30_bio_funding_constrained_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/total_richness_pa30_bio_funding_constrained_rcp45_2080_ensemble.nc
+pa30_bio | funding_constrained | rcp60
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/Amphibians_pa30_bio_funding_constrained_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/Bird_pa30_bio_funding_constrained_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/Mammals_pa30_bio_funding_constrained_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_Bio/funding_constrained/total_richness_pa30_bio_funding_constrained_rcp60_2080_ensemble.nc
+pa30_bcw | complete | rcp26
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/Amphibians_pa30_bcw_complete_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/Bird_pa30_bcw_complete_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/Mammals_pa30_bcw_complete_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/total_richness_pa30_bcw_complete_rcp26_2080_ensemble.nc
+pa30_bcw | complete | rcp45
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/Amphibians_pa30_bcw_complete_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/Bird_pa30_bcw_complete_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/Mammals_pa30_bcw_complete_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/total_richness_pa30_bcw_complete_rcp45_2080_ensemble.nc
+pa30_bcw | complete | rcp60
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/Amphibians_pa30_bcw_complete_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/Bird_pa30_bcw_complete_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/Mammals_pa30_bcw_complete_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/complete/total_richness_pa30_bcw_complete_rcp60_2080_ensemble.nc
+pa30_bcw | funding_constrained | rcp26
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/Amphibians_pa30_bcw_funding_constrained_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/Bird_pa30_bcw_funding_constrained_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/Mammals_pa30_bcw_funding_constrained_rcp26_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/total_richness_pa30_bcw_funding_constrained_rcp26_2080_ensemble.nc
+pa30_bcw | funding_constrained | rcp45
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/Amphibians_pa30_bcw_funding_constrained_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/Bird_pa30_bcw_funding_constrained_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/Mammals_pa30_bcw_funding_constrained_rcp45_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/total_richness_pa30_bcw_funding_constrained_rcp45_2080_ensemble.nc
+pa30_bcw | funding_constrained | rcp60
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/Amphibians_pa30_bcw_funding_constrained_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/Bird_pa30_bcw_funding_constrained_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/Mammals_pa30_bcw_funding_constrained_rcp60_2080_ensemble.nc
+Saved: /capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised/Ensembles/PA30_BCW/funding_constrained/total_richness_pa30_bcw_funding_constrained_rcp60_2080_ensemble.nc
+
+All consolidated ensembles were generated successfully.
