@@ -12,7 +12,7 @@ bcw_tif = "/capacity/occr_davin/trigny/chari_P2/Jung_PA/BiodiversityCarbonWater/
 # TEMPLATE NETCDF for target grid
 template_nc = "/capacity/occr_davin/mguzman/chari_P2_review/data/control_wdpa17_2015_hist.nc"
 
-out_nc = "/capacity/occr_davin/mguzman/chari_P2_review/data/PA_masks/bcw_biome_withPA.nc"
+out_nc = "/capacity/occr_davin/mguzman/chari_P2_review/data/PA_masks/bcw_withPA.nc"
 
 # -------------------------------------------------------------------
 # READ INPUT RASTER (Mollweide)
