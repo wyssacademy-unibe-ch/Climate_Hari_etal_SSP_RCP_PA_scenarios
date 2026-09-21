@@ -64,7 +64,7 @@ RUN_HISTORICAL=true
 RUN_CLIMATE_ONLY=true
 RUN_PA17=true
 
-PYTHON_SCRIPT="/capacity/occr_davin/mguzman/chari_P2_review/scripts_git/processing/Endemics/2_luf_sumprob_funding.py"
+PYTHON_SCRIPT="/capacity/occr_davin/mguzman/chari_P2_review/scripts_git/processing/Endemics/2_luf_sumprob_PA_management.py"
 OUTPUT_ROOT="/capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised"
 MATCH_FILE="/capacity/occr_davin/mguzman/chari_P2_review/Endemics/data/modeled_endemics_matches.csv"
 

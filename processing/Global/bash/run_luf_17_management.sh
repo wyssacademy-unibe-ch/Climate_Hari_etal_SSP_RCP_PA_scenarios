@@ -1,12 +1,5 @@
 #!/usr/bin/env bash
 
-# Run with:
-#
-# nohup bash \
-# /capacity/occr_davin/mguzman/chari_P2_review/scripts_git/processing/Global/bash/run_luf_sumprob_all.sh \
-# > /capacity/occr_davin/mguzman/chari_P2_review/scripts/logs/nohup_luf_revised.log \
-# 2>&1 &
-
 set -u
 set -o pipefail
 
@@ -47,8 +40,6 @@ SCENARIOS=(
 
 PA_TYPES=(
     "pa17"
-    "pa30_bio"
-    "pa30_bcw"
 )
 
 RETENTION_ASSUMPTIONS=(

@@ -47,7 +47,7 @@ RETENTION_ASSUMPTIONS=(
     "funding_constrained"
 )
 
-PYTHON_SCRIPT="/capacity/occr_davin/mguzman/chari_P2_review/scripts_git/processing/Global/2_luf_sumprob_PA_funding.py"
+PYTHON_SCRIPT="/capacity/occr_davin/mguzman/chari_P2_review/scripts_git/processing/Global/2_luf_sumprob_PA_management.py"
 
 PYTHON_EXECUTABLE="python3"
 

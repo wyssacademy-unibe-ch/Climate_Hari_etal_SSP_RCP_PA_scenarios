@@ -50,7 +50,7 @@ FUTURE_YEAR="2080"
 # Maximum number of Python processes launched simultaneously.
 MAX_PARALLEL_JOBS=14
 
-PYTHON_SCRIPT="/capacity/occr_davin/mguzman/chari_P2_review/scripts_git/processing/Endemics/2_luf_sumprob_funding.py"
+PYTHON_SCRIPT="/capacity/occr_davin/mguzman/chari_P2_review/scripts_git/processing/Endemics/2_luf_sumprob_PA_management.py"
 OUTPUT_ROOT="/capacity/occr_davin/mguzman/chari_P2_review/Endemics/PA_scenarios/Sumprob_revised"
 LOG_DIR="/capacity/occr_davin/mguzman/chari_P2_review/scripts/logs"
 RUN_DATE="$(date +%F_%H-%M-%S)"
