@@ -41,7 +41,9 @@ PA_TYPES=(
     "pa30_bcw"
 )
 
-# Management scenarios: "complete" "funding_constrained"
+# Use either:
+#   complete
+#   funding_constrained
 RETENTION="complete"
 FUTURE_YEAR="2080"
 
