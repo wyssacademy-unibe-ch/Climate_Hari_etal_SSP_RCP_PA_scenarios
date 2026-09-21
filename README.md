@@ -41,7 +41,7 @@ Scripts for preparing LUH2 land-use data, PA masks and management-effectiveness 
 2. **`0_create_multi-objective_mask.py`**  
    Processes the Jung et al. priority rasters and creates the biodiversity-only 0.5° proportional mask.
 
-3. **`0_find_endemics.py`
+3. **`0_find_endemics.py`**
     Matches the IUCN country-endemic species list to the species represented in the SDM dataset, including documented taxonomic synonyms. The output provides the species subset used in the endemic sensitivity analysis.
 
 4. **`1_17pa_2015_2080_management.py`**
@@ -56,7 +56,7 @@ Scripts for preparing LUH2 land-use data, PA masks and management-effectiveness 
 Contains separate pipelines for the full global species set (/Global) and the country-endemic subset (/Endemics).
 
 These scripts:
-1. **`2_luf_sumprob_PA_management.py`**
+**`2_luf_sumprob_PA_management.py`**
 
   1. Read climate-driven SDM projections.
   2. Apply the limited-dispersal constraint.
@@ -66,8 +66,9 @@ These scripts:
   6. Sum filtered occurrence probabilities within each taxonomic group.
   7. Generate outputs for each GCM, SDM, pathway, PA configuration and management-effectiveness assumption combination.
 
-2. **`3_create_ensembles.py`** 
-    Construct ensemble richness estimates across model combinations per taxonomic group and total vertebrate richness.
+**`3_create_ensembles.py`**
+
+  Construct ensemble richness estimates across model combinations per taxonomic group and total vertebrate richness.
 
 ### `processing/.bash/`
 
