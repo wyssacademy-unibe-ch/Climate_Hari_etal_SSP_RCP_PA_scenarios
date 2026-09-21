@@ -56,6 +56,7 @@ Scripts for preparing LUH2 land-use data, PA masks and management-effectiveness 
 Contains separate pipelines for the full global species set (/Global) and the country-endemic subset (/Endemics).
 
 These scripts:
+
 **`2_luf_sumprob_PA_management.py`**
 
   1. Read climate-driven SDM projections.
@@ -82,9 +83,11 @@ Shell scripts that automate model runs across combinations of:
 - Full- and limited-effectiveness assumptions
 
 1. **`run_luf_17_management.sh`**
+
     It launches the complete workflow to produce the outputs for the 17%-PA configuration for present-day and future scenarios.
 
 2. **`run_luf_30_management.sh`**
+
     It launches the complete workflow to produce the outputs for the both 30% expansion configurations under the different future scenarios.
 
 ### `postprocessing/`
