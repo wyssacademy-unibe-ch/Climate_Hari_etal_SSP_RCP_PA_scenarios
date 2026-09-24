@@ -5,8 +5,8 @@ Construct the harmonized 2015 land-use baseline for the existing
 17%-PA network and generate 2080 projections under two land-use
 retention assumptions:
 
-    1. Complete land-use retention
-    2. Funding-constrained land-use retention
+    1. Complete land-use retention: Full-effectiveness
+    2. Funding-constrained land-use retention: Limited-effectiveness
 
 WORKFLOW
 ========
@@ -34,10 +34,10 @@ For example:
     natural land = 0.00
     anthropogenic land = 1.00
 
-After harmonization:
+After harmonisation:
 
     secondary non-forested land = 0.20
-    combined anthropogenic land = 0.80
+    anthropogenic land = 0.80
 
 The relative proportions of the anthropogenic classes are preserved
 when their total fraction is reduced.
@@ -55,13 +55,13 @@ calculated as:
     raw_delta = raw_LUH2_2080 - raw_LUH2_2015
 
 This preserves the land-use trajectory projected by LUH2 independently
-of the baseline harmonization.
+of the baseline harmonisation.
 
 
 STAGE 3: PA-MEDIATED LAND-USE CHANGE
 ------------------------------------
 
-The raw LUH2 delta is applied to the harmonized 2015 baseline:
+The raw LUH2 delta is applied to the harmonised 2015 baseline:
 
     adjusted_2080 =
         harmonized_2015
@@ -95,7 +95,7 @@ Examples:
 
     PA fraction = 1:
         100% of projected change is prevented.
-        The harmonized 2015 composition is retained.
+        The harmonised 2015 composition is retained.
 
 
 FUNDING-CONSTRAINED LAND-USE RETENTION
@@ -132,7 +132,7 @@ land-use conversion.
 OUTPUTS
 =======
 
-One harmonized baseline:
+One harmonised baseline:
 
     baseline_wdpa17_2015_hist.nc
 

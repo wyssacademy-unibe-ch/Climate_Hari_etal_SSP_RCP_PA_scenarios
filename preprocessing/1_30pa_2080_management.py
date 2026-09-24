@@ -11,12 +11,12 @@ PA CONFIGURATIONS
 
 LAND-USE RETENTION ASSUMPTIONS
 ------------------------------
-1. Complete land-use retention
+1. Complete land-use retention - Full-effectiveness
 
    The protected fraction of each grid cell retains its harmonized
    2015 land-use composition. The retention coefficient is 1.
 
-2. Funding-constrained land-use retention
+2. Funding-constrained land-use retention - Limited-effectiveness
 
    The proportion of projected change prevented within the protected
    fraction is adjusted using:
@@ -32,7 +32,7 @@ For each LUH2 land-use class, the raw projected change is calculated as:
 
     raw_delta = raw_LUH2_2080 - raw_LUH2_2015
 
-This raw LUH2 delta is applied to the common harmonized 2015 baseline:
+This raw LUH2 delta is applied to the common harmonised 2015 baseline:
 
     adjusted_2080 =
         harmonized_2015
@@ -58,12 +58,12 @@ Interpretation:
 
 IMPORTANT
 ---------
-The harmonized 2015 baseline is used as the common starting condition
+The harmonised 2015 baseline is used as the common starting condition
 for all PA configurations.
 
 The projected delta is calculated using the original raw LUH2 2015 and
 2080 fractions. This preserves the trajectory projected by LUH2 while
-allowing all PA scenarios to start from the same harmonized baseline.
+allowing all PA scenarios to start from the same harmonised baseline.
 
 The funding coefficient is a scenario parameter. It is not an empirical
 estimate of protected-area effectiveness.
